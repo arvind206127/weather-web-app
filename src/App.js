@@ -28,7 +28,8 @@ function App() {
     
     event.preventDefault()
     setCity("")
-  }  
+  } 
+
 
 
 
